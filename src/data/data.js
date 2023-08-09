@@ -345,7 +345,7 @@ const story = {
 
 
 const footerAPI = {
-  titles: [ {title: "About Nike"},{title: "Get Help"},{title: "Company"} ],
+  titles: [ {title: "About Drip-Kicks"},{title: "Get Help"},{title: "Company"} ],
   links: [
     [
       {link: "News"},
@@ -368,7 +368,7 @@ const footerAPI = {
       {link: "Promotions"},
       {link: "Find A Store"},
       {link: "Signup"},
-      {link: "Nike Jouneral"},
+      {link: "Jounral"},
       {link: "Send Us Feeback"},
     ],
   ]
